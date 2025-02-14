@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola! Soy [Andry Noilien Guzmán Cardoza] 👋
 
-<!--
-**andrygc/andrygc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador apasionado por la tecnología y el código limpio.
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy [Andry Noilien Guzmán Cardoza], un desarrollador con pasión por compartir conocimiento y aprender constantemente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 📧 [Email](mailto:andrynoilien@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andry-cardoza)
+- 🐦 [Twitter](https://twitter.com/andrycardoza)
+
+## Habilidades
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- NODEJS
+
+## Proyectos Destacados
+- [PM2 WebUI](https://github.com/andrygc/pm2-webui) - Administrador de procesos de PM2 vía web.
+
+## Últimos Artículos del Blog
+- [Artículo 1: Título del Artículo](URL_del_artículo)
+- [Artículo 2: Título del Artículo](URL_del_artículo)
+
+## Intereses
+- 💻 Programación
+- 📚 Lectura
+- 🎮 Videojuegos
+- 🌱 Sostenibilidad
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=andrygc&show_icons=true&theme=radical)
+
+## Lenguajes Más Usados
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=andrygc&layout=compact&theme=dracula)
+
+¡Gracias por visitar mi perfil!

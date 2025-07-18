@@ -1,6 +1,7 @@
 # ¡Hola, soy Andry! 👋
 
 Desarrollador de software apasionado por crear soluciones innovadoras y eficientes. Me especializo en **backend development**, pero también disfruto explorar nuevas tecnologías y frameworks. Siempre en busca de aprender y colaborar en proyectos desafiantes.
+También me especializo en la administración de servicios en Windows Servers, Linux, administración de redes (especialmente con switches Huawei).
 
 ## 🛠 Tecnologías y Habilidades
 

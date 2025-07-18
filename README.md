@@ -8,7 +8,8 @@ Desarrollador de software apasionado por crear soluciones innovadoras y eficient
 - **Backend**: Node.js, Express
 - **Frontend**: HTML5, CSS3, Bootstrap
 - **Bases de Datos**: MySQL, SQLite3
-- **Otras Herramientas**: Git, Linux
+- **Otras Herramientas**: Git
+- **Administracion de servicios**: Linux (SO, Checkmk), Windows Server (SO, ADDS, DNS, DHCP, RDS, DFS, IIS)
 
 ## 🌱 Actualmente aprendiendo
 
